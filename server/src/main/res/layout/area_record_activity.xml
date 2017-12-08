@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/area_record_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/area_record_save_button"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_margin="50dp">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/area_record_animation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="record.json"
+            app:lottie_loop="true" />
+
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/area_save_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Area Name"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:visibility="visible" />
+
+</FrameLayout>

@@ -1,0 +1,23 @@
+namespace classes;
+
+table Capture {
+}
+
+table AndroidImage {
+    height: int;
+    width:  int;
+    format: int;
+    data: [ubyte] (required);
+}
+
+table Pose {
+    r:[double] (required);
+    q:[double] (required);
+}
+
+table StampedImage {
+    image: AndroidImage (required);
+    pose:  Pose  (required);
+}
+
+root_type Capture;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Measure.iml" filepath="$PROJECT_DIR$/Measure.iml" />
+      <module fileurl="file://C:\Dropbox\eclipse\workspace\Measure\server\app.iml" filepath="C:\Dropbox\eclipse\workspace\Measure\server\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://C:\Dropbox\eclipse\workspace\Measure\utils\poses.iml" filepath="C:\Dropbox\eclipse\workspace\Measure\utils\poses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote/remote.iml" filepath="$PROJECT_DIR$/remote/remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>

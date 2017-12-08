@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#97d6fe;}
+	.st7{fill:#32affd;}
+	.st5{fill:#325ffd;}
+	.st6{fill:#320ffd;}
+</style>
+<g>
+	<g id="XMLID_16_">
+		<path id="XMLID_17_" class="st0" d="M2.2,20.9L37.6,1.2c0.7-0.4,1.6,0.1,1.6,1v39.3c0,0.8-0.9,1.4-1.6,1L2.2,22.8
+			C1.5,22.4,1.5,21.3,2.2,20.9z"/>
+		<g id="XMLID_22_">
+			<polygon class="st5" points="13.4,14.7 26.3,21.8 26.3,36.2 13.4,29 			"/>
+			<polygon class="st6" points="39.2,29 39.2,14.7 26.3,21.8 26.3,36.2 			"/>
+			<polygon class="st7" points="26.3,7.5 13.4,14.7 26.3,21.8 39.2,14.7 			"/>
+		</g>
+	</g>
+</g>
+</svg>
